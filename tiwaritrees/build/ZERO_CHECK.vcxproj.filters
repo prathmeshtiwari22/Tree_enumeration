@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\tiwaritrees\build\CMakeFiles\9b3764595fd0241028ef3df596a006d1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{13BC9149-A15E-3807-B8DD-B03F61AA5962}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
